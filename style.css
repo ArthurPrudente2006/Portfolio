@@ -1,0 +1,51 @@
+      #Titulo {
+          text-align: center;
+      }
+
+      .navbar {
+          background-color: #383939;
+
+      }
+
+      .navbar .nav-link {
+          color: white;
+      }
+
+      .navbar .nav-link:hover {
+          color: rgb(209, 209, 209);
+      }
+
+      .card .btn {
+          color: white;
+          background-color: rgb(70, 14, 159);
+      }
+
+      .card .btn:hover {
+          color: rgb(255, 255, 255);
+          background-color: rgb(88, 42, 162);
+      }
+
+      .card {
+          border: 3px solid rgb(88, 42, 162);
+          border-radius: 5px;
+      }
+
+      .navbar-brand {
+          color: white;
+      }
+
+      .navbar-brand:hover {
+          color: rgb(209, 209, 209)
+      }
+
+      footer {
+          color: white;
+          text-align: center;
+          background-color: #383939;
+          height: 50px;
+      }
+
+      h1 {
+          color: white;
+          background-color: rgb(70, 14, 159);
+      }
