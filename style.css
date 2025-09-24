@@ -17,17 +17,25 @@
 
       .card .btn {
           color: white;
-          background-color: rgb(70, 14, 159);
+          background-color: rgb(46, 46, 46);
       }
 
       .card .btn:hover {
           color: rgb(255, 255, 255);
-          background-color: rgb(88, 42, 162);
+          background-color: rgb(116, 115, 116);
       }
 
       .card {
-          border: 3px solid rgb(88, 42, 162);
+          border: 3px solid rgb(255, 255, 255);
           border-radius: 5px;
+      }
+
+      .card-title {
+        color: white;
+      }
+
+      .card-text {
+        color: white;
       }
 
       .navbar-brand {
@@ -47,5 +55,4 @@
 
       h1 {
           color: white;
-          background-color: rgb(70, 14, 159);
       }
